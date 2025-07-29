@@ -2,7 +2,7 @@
 
 <p align="center">
 I'm a <strong>Software Engineering Specialist at LTIMindtree</strong>, specializing in fusing software development with operations.<br>
-My technical range is broad, covering everything from <strong>Full Stack Development</strong> to <strong>AI/ML</strong> & <strong>GenAI</strong>.
+My technical range is broad,l covering everything from <strong>Full Stack Development</strong> to <strong>AI/ML</strong> & <strong>GenAI</strong>.
 </p>
 
 ---
